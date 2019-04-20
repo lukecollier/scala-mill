@@ -1,10 +1,21 @@
 {
     "value": [
-        "\n",
+        "Tests: 2, Passed: 2, Failed: 0",
         [
-            
+            {
+                "fullyQualifiedName": "app.MainTest",
+                "selector": "app.MainTest.one arg",
+                "duration": 103,
+                "status": "Success"
+            },
+            {
+                "fullyQualifiedName": "app.MainTest",
+                "selector": "app.MainTest.no args",
+                "duration": 0,
+                "status": "Success"
+            }
         ]
     ],
-    "valueHash": -990457653,
-    "inputsHash": -1040998135
+    "valueHash": -792116709,
+    "inputsHash": -497611113
 }

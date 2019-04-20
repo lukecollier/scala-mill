@@ -2,13 +2,13 @@
     "value": [
         {
             "analysisFile": "/Users/collierl/Project/Personal/crypt/scala-mill/out/app/compile/dest/zinc",
-            "classes": "ref:ca577024:/Users/collierl/Project/Personal/crypt/scala-mill/out/app/compile/dest/classes"
+            "classes": "ref:58b76f7b:/Users/collierl/Project/Personal/crypt/scala-mill/out/app/compile/dest/classes"
         },
         {
             "analysisFile": "/Users/collierl/Project/Personal/crypt/scala-mill/out/core/compile/dest/zinc",
-            "classes": "ref:9e120984:/Users/collierl/Project/Personal/crypt/scala-mill/out/core/compile/dest/classes"
+            "classes": "ref:12afcc10:/Users/collierl/Project/Personal/crypt/scala-mill/out/core/compile/dest/classes"
         }
     ],
-    "valueHash": -7824880,
-    "inputsHash": -1130174244
+    "valueHash": -1924216311,
+    "inputsHash": 1689565365
 }

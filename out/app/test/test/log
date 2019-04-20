@@ -1,0 +1,5 @@
+-------------------------------- Running Tests --------------------------------
+Hello, Luke.
+[32m+[39m app.MainTest.one arg [2m103ms[0m  
+Usage: App name
+[32m+[39m app.MainTest.no args [2m0ms[0m  

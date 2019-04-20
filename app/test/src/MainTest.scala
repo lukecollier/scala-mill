@@ -9,10 +9,10 @@ import Main._
 object MainTest extends TestSuite{
   val tests = Tests{
     "one arg" - {
-      run(List("Luke")) ==> IO.pure(ExitCode.Success)
+      run(List("Luke")).unsafeRunSync ==> ExitCode.Success
     }
     "no args" - {
-      run(List()) ==> IO.pure(ExitCode(2))
+      run(List()).unsafeRunSync ==> ExitCode(2)
     }
   }
 }
