@@ -10,8 +10,8 @@ object Version {
 object app extends BaseModule {
   def moduleDeps = Seq(core)
 
-  def ivyDeps = Agg(
-  )
+  // def ivyDeps = Agg(
+  // )
 
   object test extends Tests { 
     def ivyDeps = Agg(ivy"com.lihaoyi::utest::${Version.microTest}")

@@ -1,0 +1,33 @@
+{
+    "value": [
+        {
+            "dep": {
+                "module": {
+                    "organization": "com.lihaoyi",
+                    "name": "utest",
+                    "attributes": {
+                        
+                    }
+                },
+                "version": "0.6.7",
+                "configuration": "default(compile)",
+                "exclusions": [
+                    
+                ],
+                "attributes": {
+                    "type": "",
+                    "classifier": ""
+                },
+                "optional": false,
+                "transitive": true
+            },
+            "cross": {
+                "$type": "mill.scalalib.CrossVersion.Binary",
+                "platformed": true
+            },
+            "force": false
+        }
+    ],
+    "valueHash": 342612493,
+    "inputsHash": -995113006
+}

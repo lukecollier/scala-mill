@@ -1,0 +1,60 @@
+{
+    "value": [
+        {
+            "dep": {
+                "module": {
+                    "organization": "org.typelevel",
+                    "name": "cats-core",
+                    "attributes": {
+                        
+                    }
+                },
+                "version": "1.6.0",
+                "configuration": "default(compile)",
+                "exclusions": [
+                    
+                ],
+                "attributes": {
+                    "type": "",
+                    "classifier": ""
+                },
+                "optional": false,
+                "transitive": true
+            },
+            "cross": {
+                "$type": "mill.scalalib.CrossVersion.Binary",
+                "platformed": false
+            },
+            "force": false
+        },
+        {
+            "dep": {
+                "module": {
+                    "organization": "org.typelevel",
+                    "name": "cats-effect",
+                    "attributes": {
+                        
+                    }
+                },
+                "version": "1.2.0",
+                "configuration": "default(compile)",
+                "exclusions": [
+                    
+                ],
+                "attributes": {
+                    "type": "",
+                    "classifier": ""
+                },
+                "optional": false,
+                "transitive": true
+            },
+            "cross": {
+                "$type": "mill.scalalib.CrossVersion.Binary",
+                "platformed": false
+            },
+            "force": false
+        }
+    ],
+    "valueHash": -518292458,
+    "inputsHash": 415778447
+}

@@ -1,0 +1,20 @@
+{
+    "value": [
+        "ref:c984eca8:/Users/collierl/Project/Personal/crypt/scala-mill/app/resources",
+        "ref:ca577024:/Users/collierl/Project/Personal/crypt/scala-mill/out/app/compile/dest/classes",
+        "ref:c984eca8:/Users/collierl/Project/Personal/crypt/scala-mill/core/resources",
+        "ref:9e120984:/Users/collierl/Project/Personal/crypt/scala-mill/out/core/compile/dest/classes",
+        "qref:23e30ea2:/Users/collierl/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/utest_2.12/0.6.7/utest_2.12-0.6.7.jar",
+        "qref:ffc347ad:/Users/collierl/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-macros_2.12/1.6.0/cats-macros_2.12-1.6.0.jar",
+        "qref:e424486c:/Users/collierl/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar",
+        "qref:796d06b8:/Users/collierl/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-effect_2.12/1.2.0/cats-effect_2.12-1.2.0.jar",
+        "qref:24d8cbac:/Users/collierl/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar",
+        "qref:bde06ca7:/Users/collierl/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.12/1.6.0/cats-core_2.12-1.6.0.jar",
+        "qref:f73b5b85:/Users/collierl/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/machinist_2.12/0.6.6/machinist_2.12-0.6.6.jar",
+        "qref:0fab63e0:/Users/collierl/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/portable-scala/portable-scala-reflect_2.12/0.1.0/portable-scala-reflect_2.12-0.1.0.jar",
+        "qref:307af266:/Users/collierl/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.12/1.6.0/cats-kernel_2.12-1.6.0.jar",
+        "qref:796e0f65:/Users/collierl/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar"
+    ],
+    "valueHash": 271839726,
+    "inputsHash": -1073175945
+}

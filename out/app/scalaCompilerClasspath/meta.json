@@ -1,0 +1,10 @@
+{
+    "value": [
+        "qref:e424486c:/Users/collierl/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar",
+        "qref:a8a162d0:/Users/collierl/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8.jar",
+        "qref:bba6d546:/Users/collierl/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar",
+        "qref:796e0f65:/Users/collierl/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar"
+    ],
+    "valueHash": -1042640921,
+    "inputsHash": -156822059
+}
